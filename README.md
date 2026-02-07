@@ -33,7 +33,7 @@ This repository contains **four machine learning models** applied to two differe
 
 ## 🧑‍🤝‍🧑 Team Members
 
-** Aliaa | Gehad | Alaa | Aya | Ghada | Fatma ** 
+**Aliaa | Gehad | Alaa | Aya | Ghada | Fatma** 
 
 ---
 
